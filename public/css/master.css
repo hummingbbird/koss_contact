@@ -1,0 +1,11 @@
+.contact h2{
+    color: rgb(250, 72, 41);
+  }
+  .contact .contact-form label,
+  .contact-show label{
+    display: inline-block;
+    width: 70px;
+  }
+  .contact .contact-menu form{
+      display: inline-block;
+  }
